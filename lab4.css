@@ -1,0 +1,49 @@
+.firstBloc{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.otherBloc{
+	margin-bottom: 20px;
+}
+
+#transportMethod{
+	display: flex;
+}
+
+.labblock{
+	display: inline-block; 
+	width: 40%;
+}
+
+.boxName{
+	font-size: 25px;
+}
+
+.checkboxdiv{
+	display: inline-block;
+}
+
+.submitBttn{
+	display: block;
+	text-align: center;
+    margin: 0 auto;
+}
+
+.dataShowned{
+	margin-top: 20px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+#result1,#result2,#result3,#result4{
+	display: inline-block;
+	margin-left: 20px;
+	color: red;
+}
+
+fieldset{
+	margin-top: 10%;
+	margin-left: 25%;
+	margin-right: 25%;
+}
